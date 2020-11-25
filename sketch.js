@@ -9,7 +9,7 @@ var database;
 function preload()
 {
   dog_img = loadImage("images/dogimg.png");
-  dog_img2= loadImage("images/dogimg1.png");
+  dog_img2= loadImage("images/dogImg1.png");
 }
 
 function setup() {
